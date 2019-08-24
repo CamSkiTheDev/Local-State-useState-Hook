@@ -10,4 +10,4 @@ simple tutorial on how to manage local state with the react useState hook.
 
 ### Video Tutorial Link Below
 
-[Video Tutorial](https://www.youtube.com/watch?v=Erb_iVFNNoM)
+[Video Tutorial](https://www.youtube.com/watch?v=YsNPsM_rZeM)
